@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/herolo/static/css/main.4bf481c4.chunk.css",
+    "main.js": "/herolo/static/js/main.9cf7504b.chunk.js",
+    "main.js.map": "/herolo/static/js/main.9cf7504b.chunk.js.map",
+    "runtime-main.js": "/herolo/static/js/runtime-main.4f75c491.js",
+    "runtime-main.js.map": "/herolo/static/js/runtime-main.4f75c491.js.map",
+    "static/js/2.978c95d4.chunk.js": "/herolo/static/js/2.978c95d4.chunk.js",
+    "static/js/2.978c95d4.chunk.js.map": "/herolo/static/js/2.978c95d4.chunk.js.map",
+    "index.html": "/herolo/index.html",
+    "precache-manifest.2651befb776306af599159317e916316.js": "/herolo/precache-manifest.2651befb776306af599159317e916316.js",
+    "service-worker.js": "/herolo/service-worker.js",
+    "static/css/main.4bf481c4.chunk.css.map": "/herolo/static/css/main.4bf481c4.chunk.css.map",
+    "static/js/2.978c95d4.chunk.js.LICENSE": "/herolo/static/js/2.978c95d4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f75c491.js",
+    "static/js/2.978c95d4.chunk.js",
+    "static/css/main.4bf481c4.chunk.css",
+    "static/js/main.9cf7504b.chunk.js"
+  ]
+}
