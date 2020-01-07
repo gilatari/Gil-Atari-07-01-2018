@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Gil-Atari-07-01-2018/precache-manifest.bbedd84414ff708ad4e37436c5f62f74.js"
+  "/Gil-Atari-07-01-2018/precache-manifest.3a59f4e03f97365af7088d139507eb18.js"
 );
 
 self.addEventListener('message', (event) => {
